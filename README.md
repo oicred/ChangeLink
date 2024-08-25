@@ -1,6 +1,5 @@
 # ChangeLink: Pooling Small Change for Big Impact Across Chains
 
-![ChangeLink Logo](./assets/logo.png)  <!-- Replace with the link to your project's logo -->
 
 ## Overview
 
